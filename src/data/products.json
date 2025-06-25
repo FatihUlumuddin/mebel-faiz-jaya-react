@@ -1,0 +1,175 @@
+{
+  "categories": [
+    {
+      "id": "sofa",
+      "name": "Sofa & Kursi",
+      "description": "Koleksi sofa dan kursi berkualitas tinggi"
+    },
+    {
+      "id": "meja",
+      "name": "Meja",
+      "description": "Berbagai jenis meja untuk kebutuhan rumah"
+    },
+    {
+      "id": "tempat-tidur",
+      "name": "Tempat Tidur",
+      "description": "Tempat tidur nyaman dengan desain elegan"
+    },
+    {
+      "id": "lemari",
+      "name": "Lemari",
+      "description": "Lemari penyimpanan dengan berbagai ukuran"
+    },
+    {
+      "id": "kursi-kantor",
+      "name": "Kursi Kantor",
+      "description": "Kursi kantor ergonomis untuk produktivitas maksimal"
+    }
+  ],
+  "products": [
+    {
+      "id": "sofa-minimalis-01",
+      "name": "Sofa Minimalis 3 Dudukan",
+      "category": "sofa",
+      "price": 3500000,
+      "originalPrice": 4000000,
+      "discount": 12,
+      "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "description": "Sofa minimalis dengan bahan kulit sintetis berkualitas tinggi, rangka kayu jati solid, dan bantalan empuk yang nyaman.",
+      "specifications": {
+        "material": "Kulit Sintetis + Kayu Jati",
+        "dimensions": "200cm x 85cm x 80cm",
+        "capacity": "3 Orang",
+        "warranty": "2 Tahun"
+      },
+      "features": [
+        "Rangka kayu jati solid",
+        "Bantalan busa berkualitas tinggi",
+        "Desain minimalis modern",
+        "Mudah dibersihkan"
+      ],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "meja-makan-kayu-01",
+      "name": "Meja Makan Kayu Jati 6 Kursi",
+      "category": "meja",
+      "price": 5200000,
+      "originalPrice": 6000000,
+      "discount": 13,
+      "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "description": "Set meja makan kayu jati solid dengan 6 kursi, finishing natural yang menampilkan keindahan serat kayu alami.",
+      "specifications": {
+        "material": "Kayu Jati Solid",
+        "dimensions": "180cm x 90cm x 75cm",
+        "capacity": "6 Orang",
+        "warranty": "5 Tahun"
+      },
+      "features": [
+        "Kayu jati grade A",
+        "Finishing natural glossy",
+        "Desain klasik timeless",
+        "Tahan rayap dan cuaca"
+      ],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "tempat-tidur-modern-01",
+      "name": "Tempat Tidur Modern Queen Size",
+      "category": "tempat-tidur",
+      "price": 4800000,
+      "originalPrice": 5500000,
+      "discount": 13,
+      "image": "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "description": "Tempat tidur modern dengan headboard berlapis kain, rangka kayu solid, dan desain yang elegan untuk kamar tidur utama.",
+      "specifications": {
+        "material": "Kayu Mahoni + Kain Linen",
+        "dimensions": "160cm x 200cm x 120cm",
+        "size": "Queen Size",
+        "warranty": "3 Tahun"
+      },
+      "features": [
+        "Headboard berlapis kain premium",
+        "Rangka kayu mahoni solid",
+        "Desain modern minimalis",
+        "Kuat menahan beban hingga 200kg"
+      ],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "lemari-pakaian-01",
+      "name": "Lemari Pakaian 4 Pintu",
+      "category": "lemari",
+      "price": 3800000,
+      "originalPrice": 4200000,
+      "discount": 10,
+      "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "description": "Lemari pakaian 4 pintu dengan cermin, laci, dan gantungan baju. Cocok untuk kamar tidur utama dengan kapasitas penyimpanan besar.",
+      "specifications": {
+        "material": "Kayu Jati + Cermin",
+        "dimensions": "200cm x 60cm x 220cm",
+        "doors": "4 Pintu",
+        "warranty": "3 Tahun"
+      },
+      "features": [
+        "4 pintu dengan cermin",
+        "Laci penyimpanan dalam",
+        "Gantungan baju adjustable",
+        "Sistem engsel berkualitas"
+      ],
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "kursi-kantor-01",
+      "name": "Kursi Kantor Ergonomis Executive",
+      "category": "kursi-kantor",
+      "price": 1800000,
+      "originalPrice": 2200000,
+      "discount": 18,
+      "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "description": "Kursi kantor executive dengan desain ergonomis, sandaran punggung tinggi, dan bantalan empuk untuk kenyamanan maksimal saat bekerja.",
+      "specifications": {
+        "material": "Kulit PU + Mesh",
+        "dimensions": "65cm x 70cm x 120cm",
+        "weight_capacity": "120kg",
+        "warranty": "2 Tahun"
+      },
+      "features": [
+        "Desain ergonomis",
+        "Sandaran punggung adjustable",
+        "Roda berkualitas tinggi",
+        "Armrest empuk"
+      ],
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "meja-kerja-01",
+      "name": "Meja Kerja Minimalis",
+      "category": "meja",
+      "price": 1200000,
+      "originalPrice": 1400000,
+      "discount": 14,
+      "image": "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "description": "Meja kerja minimalis dengan laci penyimpanan, cocok untuk home office atau ruang kerja pribadi.",
+      "specifications": {
+        "material": "Kayu Mahoni + MDF",
+        "dimensions": "120cm x 60cm x 75cm",
+        "drawers": "2 Laci",
+        "warranty": "2 Tahun"
+      },
+      "features": [
+        "Desain minimalis modern",
+        "2 laci penyimpanan",
+        "Permukaan anti gores",
+        "Kaki meja stabil"
+      ],
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}
